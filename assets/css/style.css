@@ -1,1 +1,39 @@
+body{
+    background-image: url("../images/background.jpg");
+    color: black;
+}
 
+
+div.jumbotron{
+    background-color: teal;
+    color:white; 
+    font-weight: bold;
+}
+
+.panel-heading{
+    padding:5px;
+    background-color:teal;
+    color:white; 
+    border: 1.5px solid gray;
+}
+
+.panel-body{
+    border: 1.5px solid gray;
+    padding: 5px;
+    background-color: white;
+    color: black;
+    margin-bottom: 20px;
+}
+
+.table {
+    background-color: white;
+    color: black;
+}
+
+button{
+    border-radius: 25px;
+    background-color: teal;
+    color:white;
+    border: teal;
+    padding: 10px 20px;
+}
